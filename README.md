@@ -1,4 +1,4 @@
-# Nomad Coders 강의 연습 코드 레포지토리리
+# Nomad Coders 강의 연습 코드 레포지토리
 
 [Nomad Coders][1] 사이트의 강의를 듣고, 코딩 연습을 하는 레포지토리
 
