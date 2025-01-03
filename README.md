@@ -12,4 +12,9 @@
 - 파이썬
 - 셀레니움
 
+## 기능
+
+auto_screenshots.py 파일은 키워드에 대한 구글 검색 결과의 스크린샷을 찍는 도구입니다.
+design_tester.py 파일은 반응형 웹사이트에서 사이즈 변경이 원활하게 되는지 확인하는것을 도와주는 도구이며, 브라우저의 너비를 자동으로 변경하고, 반응형 웹 페이지의 스크린샷을 찍는 기능이 있습니다.
+
 [1]: https://nomadcoders.co/selenium-for-beginners/
